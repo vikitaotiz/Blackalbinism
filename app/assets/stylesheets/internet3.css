@@ -40,7 +40,6 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   background: rgba(0, 0, 0, 0.02);
-  -webkit-box-shadow: inset 0 0 2px 2px rgb(0 0 0 / 4%);
   box-shadow: inset 0 0 2px 2px rgb(0 0 0 / 4%);
 }
 .equal-height-wrap .valign-bottom .mcb-wrap-inner {
