@@ -28,11 +28,7 @@
   background: rgba(0, 0, 0, 0.05);
   color: rgba(0, 0, 0, 0.35);
 }
-.style-simple .progress_bars .bars_list li .bar {
-  box-shadow: 0 0 0 0 rgb(0 0 0 / 0%) inset;
-  background: rgba(0, 0, 0, 0.03);
-  border-radius: 0;
-}
+
 .progress_bars .bars_list li .bar {
   position: relative;
   width: 100%;
